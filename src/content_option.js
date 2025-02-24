@@ -16,8 +16,8 @@ const introdata = {
 };
 
 const dataabout = {
-    title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    title: "a bit about us",
+    aboutme: "We are the best band ever",
 };
 const worktimeline = [{
     jobtitle: "Guitarist",
