@@ -174,23 +174,7 @@ section {
     color: var(--primary-color)
 }
 
-.intro_sec .h_bg-image .block {
-    bottom: 50vh;
-    max-width: 220px;
-    padding: 30px;
-    left: -110px;
-    position: absolute;
-    width: 250px;
-    height: 220px;
-    border-radius: 100%;
-    /* mix-blend-mode: multiply; */
-    background-color: #2f514e;
-    z-index: 9999999999;
-    display: flex;
-    align-items: center;
-    flex-direction: column;
-    justify-content: center;
-}
+
 
 @media (max-width:991.98px) {
     .intro_sec .h_bg-image {
