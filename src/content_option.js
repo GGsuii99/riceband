@@ -61,8 +61,7 @@ const skills = [
     },
 ];
 
-const services = [
-];
+
 
 const dataportfolio = [
   
